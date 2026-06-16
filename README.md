@@ -1,6 +1,6 @@
 # Hi, I'm Samdup 👋
 
-**Security enthusiast · Georgia Tech · Atlanta, GA**
+**Security enthusiast**
 
 I focus on cybersecurity - malware analysis, network forensics, and security hardening - and I'm always learning something new.
 
