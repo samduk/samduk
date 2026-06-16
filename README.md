@@ -24,9 +24,9 @@ I focus on cybersecurity - malware analysis, network forensics, and security har
 
 ### 📌 Featured Projects
 
+- **[ePotala Security Toolkit](https://github.com/samduk/epotala-security-toolkit)** — Log Analysis and Incident Response Tool in Python.
 - **[log-analysis-and-security-hardening](https://github.com/samduk/log-analysis-and-security-hardening)** - Log analysis and system hardening workflows.
-- **[packet_analysis](https://github.com/samduk/packet_analysis)** — Network packet analysis in Python.
-- **[awesome-malware-analysis](https://github.com/samduk/awesome-malware-analysis)** - A curated list of malware analysis tools and resources.
+- **[TCRC Yutso Legace to Unicode Complete Solution](https://github.com/samduk/tcrc-youtso-unicode)** - Community Project 
 
 ---
 
