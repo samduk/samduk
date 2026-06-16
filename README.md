@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Samdup 👋
 
-<!--
-**samduk/samduk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Security enthusiast · Georgia Tech · Atlanta, GA**
 
-Here are some ideas to get you started:
+I focus on cybersecurity - malware analysis, network forensics, and security hardening - and I'm always learning something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on threat detection and log-analysis tooling
+- 🛡️ Interests: malware analysis, packet/network forensics, system hardening
+- 🌐 Website: [tcert.net](https://tcert.net)
+- 📫 Reach me: [GitHub](https://github.com/samduk)
+- 🌱 Always happy to learn and collaborate on security projects
+
+---
+
+### 🔧 Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- **[log-analysis-and-security-hardening](https://github.com/samduk/log-analysis-and-security-hardening)** - Log analysis and system hardening workflows.
+- **[packet_analysis](https://github.com/samduk/packet_analysis)** — Network packet analysis in Python.
+- **[awesome-malware-analysis](https://github.com/samduk/awesome-malware-analysis)** - A curated list of malware analysis tools and resources.
+
+---
+
+### 📊 GitHub Stats
+
+![Samdup's GitHub stats](https://github-readme-stats.vercel.app/api?username=samduk&show_icons=true&hide_border=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samduk&layout=compact&hide_border=true)
