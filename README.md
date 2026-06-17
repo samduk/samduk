@@ -6,6 +6,7 @@ I focus on cybersecurity - malware analysis, network forensics, and security har
 
 - 🔭 Currently working on threat detection and log-analysis tooling
 - 🛡️ Interests: malware analysis, packet/network forensics, system hardening
+-    Resume: [Resume](https://tcert.net/wp-content/uploads/2026/05/Samdup_Choephel_Resume.pdf)
 - 🌐 Website: [tcert.net](https://tcert.net)
 - 📫 Reach me: [GitHub](https://github.com/samduk)
 - 🌱 Always happy to learn and collaborate on security projects
